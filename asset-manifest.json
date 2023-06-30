@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/75-hard-react/static/css/main.8498f391.css",
+    "main.js": "/75-hard-react/static/js/main.22532976.js",
+    "index.html": "/75-hard-react/index.html",
+    "main.8498f391.css.map": "/75-hard-react/static/css/main.8498f391.css.map",
+    "main.22532976.js.map": "/75-hard-react/static/js/main.22532976.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8498f391.css",
+    "static/js/main.22532976.js"
+  ]
+}

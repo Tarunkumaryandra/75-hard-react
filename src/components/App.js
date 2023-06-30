@@ -9,7 +9,7 @@ function App() {
     <Router>
       <div className="App">
         <Routes>
-          <Route path="/75-hard/" element={<Navigate to="/login" />} />
+          <Route path="/75-hard-react/" element={<Navigate to="/login" />} />
           <Route path="/login" element={<LoginPage />} />
           <Route path="/home" element={<HomePage />} />
           <Route path="/homepage2" element={<HomePage2 />} />

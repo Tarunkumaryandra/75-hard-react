@@ -1,0 +1,153 @@
+
+  
+  .app-login-card h1 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .form-group {
+    margin-bottom: 22px;
+  }
+  
+  .form-group label {
+    font-family: "Raleway", sans-serif;
+    font-size: 11pt;
+    color:   #161a2b;
+    padding-top:22px;
+  }
+  
+
+ 
+  
+
+  
+ 
+  .login-page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .app-login-card {
+    max-width: 400px;
+    width: 100%;
+    height: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ffffff;
+    box-shadow: 1px 2px 8px rgba(0, 0, 0, 0.65);
+    border-radius: 10px;
+    background: #ffffff;
+  }
+  
+  .app-login-card h1 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  .app-login-card .text-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+
+  
+  /* Rest of the CSS styles for form-group, form-control, and btn */
+  .app-login-card h1 {
+    text-align: center;
+    margin-bottom: 8px;
+    font-size: 28px;
+    color:   #161a2b;
+    text-transform: uppercase;
+    font-weight: bold;
+  }
+
+
+
+  .btn {
+    background: -webkit-linear-gradient(right, #a6f77b, #2dbd6e);
+    border: none;
+    border-radius: 21px;
+    box-shadow: 0px 1px 8px #24c64f;
+    cursor: pointer;
+    color: white;
+    font-family: "Raleway SemiBold", sans-serif;
+    height: 42.3px;
+    margin: 0 auto;
+    margin-top: 50px;
+    transition: 0.25s;
+    width: 153px;
+    margin-left: 95px;
+  }
+  .btn:hover {
+    box-shadow: 0px 1px 18px #24c64f;
+  }
+
+
+  .card-title {
+    font-family: "Raleway Thin", sans-serif;
+    letter-spacing: 3px;
+    padding-bottom: 23px;
+    padding-top: 13px;
+    text-align: center;
+  }
+  .underline-title {
+    background: -webkit-linear-gradient(right, #a6f77b, #2ec06f);
+    height: 2px;
+    margin: -1.5rem auto 0 auto;
+    width: 89px;
+  }
+  
+
+  .form-content {
+    background: #ffffff;
+    border: none;
+    outline: none;
+    padding-top: 14px;
+    width: 100%;
+  }
+
+  .form-border {
+    background: -webkit-linear-gradient(right, #a6f77b, #2ec06f);
+    height: 1px;
+    width: 100%;
+  }
+
+
+  .form {
+    align-items: left;
+    display: flex;
+    flex-direction: column;
+    margin-top: 15px;
+  }
+
+
+  .link-buttonFP {
+    background: none;
+    border: none;
+    color: #2dbd6e;
+    font-family: "Raleway", sans-serif;
+    font-size: 10pt;
+    margin-top: 16px;
+    text-align: center;
+    cursor: pointer;
+    margin-left: 250px;
+  }
+
+
+  .link-buttonDHA {
+    background: none;
+    border: none;
+    color: #2dbd6e;
+    font-family: "Raleway", sans-serif;
+    font-size: 10pt;
+    margin-top: 16px;
+    text-align: center;
+    cursor: pointer;
+    margin-top: 20px;
+    margin-left: 90px;
+  }
+  
+   

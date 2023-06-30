@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+      'Lucida Sans', Arial, sans-serif;
+  }
+  
+  body {
+    background: linear-gradient(
+      90deg,
+      rgba(48, 16, 255, 1) 0%,
+      rgba(100, 115, 255, 1) 100%
+    );
+    background-image: url("https://wallpaperaccess.com/full/6843282.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  /*https://wallpaperaccess.com/full/1994605.jpg*/
+  /*https://wallpaperaccess.com/full/6843265.jpg*/
+  /*https://store-images.s-microsoft.com/image/apps.14501.68688977722932617.c18986e0-354d-49e5-a689-33d52a7432cb.4324e613-281f-4948-bd74-d17321615130?mode=scale&q=90&h=1080&w=1920*/

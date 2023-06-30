@@ -1,0 +1,11 @@
+.logo h1{ 
+    letter-spacing: 5px;
+    font-size: 75px;
+    text-shadow: 4px 4px 8px rgba(0, 0, 0, 0.8);
+}
+.logo p{
+    margin-right: 120px;
+    color: aliceblue;
+    font-size: 20px;
+    text-shadow: 4px 4px 8px rgba(0, 0, 0, 0.8);
+}

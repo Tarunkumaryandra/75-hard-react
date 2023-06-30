@@ -1,0 +1,16 @@
+.home-page {
+    display: flex;
+    justify-content: space-between;
+   
+}
+  
+  .your-tasks-container {
+    flex-basis: 45%; /* Adjust the width as needed */
+  }
+  .your-tasks-container{
+    margin-left: 120px;
+  }
+  .calendar-container{
+    margin-right: 70px ;
+  }
+ 

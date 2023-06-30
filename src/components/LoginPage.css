@@ -1,0 +1,31 @@
+.login-page {
+  display: flex;
+  justify-content: flex-end;
+  padding-bottom: 350px;
+  padding-right: 150px;
+}
+
+.login-card {
+  /* Add your desired card styling here */
+  /* For example: */
+  width: 400px;
+  height: 200px;
+  border-radius: 8px;
+  margin-left: 250px;
+}
+
+.login-page {
+  background: -webkit-linear-gradient(bottom, #2dbd6e, #a6f77b);
+  background-image: url("https://a-static.besthdwallpaper.com/mountains-minimalist-scenery-wallpaper-1920x1200-81093_6.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  margin-right: 100px;
+  margin-top: 100px;
+}
